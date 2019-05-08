@@ -16,7 +16,8 @@ git push -u origin master
 git remote add origin git@github.com:SINI157/test.git
 git push -u origin master
 ```
-#### 表格插入设置
+* 表格插入设置
+
 | 星期|车次|时间|
 |:---:|:---:|:---:|
 |星期一|G1008|4:30|
