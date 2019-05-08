@@ -12,10 +12,10 @@ git push -u origin master
 ```
 …or push an existing repository from the command line
 -----------------------------------------------------
->
+```
 git remote add origin git@github.com:SINI157/test.git
 git push -u origin master
-
+```
 #### 表格插入设置
 | 星期|车次|时间|
 |:---:|:---:|:---:|
