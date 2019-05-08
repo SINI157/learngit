@@ -29,6 +29,4 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 |星期二|G1006|14:55|
 |星期三|G1007|18:30|
 |星期三|G1007|18:30|
-
-1、我的<br>
-2、压得
+    我的
