@@ -1,3 +1,5 @@
+[GitHub上README.md的简单介绍](https://www.cnblogs.com/longronglang/p/8453047.html "悬停显示")
+
 …or create a new repository on the command line
 ---------------------------------------------------
 ```
@@ -10,11 +12,14 @@ git push -u origin master
 ```
 …or push an existing repository from the command line
 -----------------------------------------------------
-```
+>
 git remote add origin git@github.com:SINI157/test.git
 git push -u origin master
-```
-[我的博客](https://blog.csdn.net/Aaron0619/article/details/79363994 "悬停显示")
-* wo
- * ni
-  * ta
+
+### 表格插入设置
+| 星期|车次|时间|
+|:---:|:---:|:---:|
+|星期一|G1008|4:30|
+|星期二|G1006|14:55|
+|星期三|G1007|18:30|
+|星期三|G1007|18:30|
