@@ -19,9 +19,9 @@ git push -u origin master
 ```
 …or import code from another repository
 ---------------------------------------
-`
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
-`
+
+    You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
 * 表格插入设置
 
 | 星期|车次|时间|人物|事件|关系|
