@@ -1,4 +1,5 @@
 [GitHub上README.md的简单介绍](https://www.cnblogs.com/longronglang/p/8453047.html "悬停显示")
+[GitHub上README.md排版样式教程](https://blog.csdn.net/u012067966/article/details/50736647)
 
 …or create a new repository on the command line
 ---------------------------------------------------
@@ -29,5 +30,3 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 |星期二|G1006|14:55|
 |星期三|G1007|18:30|
 |星期三|G1007|18:30|
-        我的
-        他的
